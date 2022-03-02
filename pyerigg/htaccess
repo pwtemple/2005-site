@@ -1,0 +1,6 @@
+AuthUserFile /usr/local/etc/.pyerigg
+AuthGroupFile /dev/null
+AuthName "This Area is Restricted"
+AuthType Basic
+require valid-user
+
